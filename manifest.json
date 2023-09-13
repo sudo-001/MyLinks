@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "MyLinks",
+    "version": "1.0",
+    "description": "MyLinks est une extension de sauvegarde, et de partage de liens",
+    
+    "action": {
+        "default_title": "MyLinks",
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "storage",
+        "activeTab"
+    ]
+}
