@@ -1,0 +1,39 @@
+
+body {
+   margin: 0;
+   padding: 0;
+   height: 700px;
+   width: 700px;
+   overflow: hidden;
+}
+
+.title {
+    background-color: rgb(25, 25, 75);
+    padding-top: 10px;
+    display: flex;
+    align-items: center;
+    color: ghostwhite;
+    width: 100%;
+    margin-bottom: 10px;
+    
+}
+
+.main-content {
+    overflow-x: hidden;
+    width: 98%;
+    padding: 0px 10px 0 10px;
+}
+
+.form, .links-container {
+    background-color: white;
+    border: solid 1px gray;
+    border-radius: 2px;
+    padding: 20px;
+    box-shadow: 0px 2px 5px gray;
+}
+
+.links-container {
+    margin-top: 10px;
+    
+}
+
